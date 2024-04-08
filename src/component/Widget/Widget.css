@@ -1,0 +1,12 @@
+.widget{
+position: relative;
+}
+
+.list-options{
+position: absolute;
+top:50px;
+right: 0px;
+z-index: 1;
+font-size: smaller;
+display: none;
+}
